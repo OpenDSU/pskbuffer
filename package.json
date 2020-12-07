@@ -1,7 +1,7 @@
 {
   "name": "pskbuffer",
   "version": "1.0.0",
-  "description": "Replace all use of node.j.s Buffer with PSKBuffer to allow portability in browser and isolates",
+  "description": "Replace all use of node.j.s $$.Buffer with PSKBuffer to allow portability in browser and isolates",
   "main": "index.js",
   "directories": {
     "lib": "lib",
